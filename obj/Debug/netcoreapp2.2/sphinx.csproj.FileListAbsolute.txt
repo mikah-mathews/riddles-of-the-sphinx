@@ -1,0 +1,10 @@
+D:\Desktop\riddles-of-the-sphinx\bin\Debug\netcoreapp2.2\sphinx.deps.json
+D:\Desktop\riddles-of-the-sphinx\bin\Debug\netcoreapp2.2\sphinx.runtimeconfig.json
+D:\Desktop\riddles-of-the-sphinx\bin\Debug\netcoreapp2.2\sphinx.runtimeconfig.dev.json
+D:\Desktop\riddles-of-the-sphinx\bin\Debug\netcoreapp2.2\sphinx.dll
+D:\Desktop\riddles-of-the-sphinx\bin\Debug\netcoreapp2.2\sphinx.pdb
+D:\Desktop\riddles-of-the-sphinx\obj\Debug\netcoreapp2.2\sphinx.csprojAssemblyReference.cache
+D:\Desktop\riddles-of-the-sphinx\obj\Debug\netcoreapp2.2\sphinx.AssemblyInfoInputs.cache
+D:\Desktop\riddles-of-the-sphinx\obj\Debug\netcoreapp2.2\sphinx.AssemblyInfo.cs
+D:\Desktop\riddles-of-the-sphinx\obj\Debug\netcoreapp2.2\sphinx.dll
+D:\Desktop\riddles-of-the-sphinx\obj\Debug\netcoreapp2.2\sphinx.pdb
