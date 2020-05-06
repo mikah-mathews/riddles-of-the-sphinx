@@ -23,6 +23,10 @@ namespace Sphinx.Riddles
       _riddles.Add("The man who invented it doesn't want it. The man who bough it doesn't need it. The man who needs it dosen't know it. What is it?", "coffin");
     }
 
+    public static void BeSpooky()
+    {
+      Console.WriteLine("OoOooOooOoo");
+    }
     public Dictionary<string, string> GetRiddles()
     {
       return _riddles;
