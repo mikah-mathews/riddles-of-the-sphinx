@@ -2,7 +2,7 @@
 
 #### _Epicodus Project May 4, 2020_
 
-#### By _**Jessica Hvozdovich and Matt Stroud**_
+#### By _**Mikah Mathews and Matt Stroud**_
 
 ## Description
 
@@ -34,4 +34,4 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jessica Hvozdovich and Matt Stroud_**
+Copyright (c) 2020 **_Mikah Mathews and Matt Stroud_**
